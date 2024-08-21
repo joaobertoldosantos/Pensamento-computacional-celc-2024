@@ -7,3 +7,10 @@ body {
     color: #0909;
     font-style: italic;
 }
+
+.nd {
+    border-radius: 8px;
+    border-color: #fff;
+    border: solid 2px;
+
+}
